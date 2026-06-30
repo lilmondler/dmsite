@@ -33,21 +33,21 @@
 /* ---------- 1. DESIGN TOKENS ---------- */
 :root {
   /* Brand colors — see note above before finalising */
-  --color-ink: #4c4d50;            /* primary text */
-  --color-ink-soft: #787a7c;       /* secondary text */
-  --color-slate: #6b7a8c;          /* tertiary text / captions */
-  --color-primary: #dc3545;        /* DM365 brand blue */
-  --color-primary-dark: #0a2c4b;
-  --color-primary-light: #e7eef6;
-  --color-accent: #169c93;         /* teal — "data" accent */
+  --color-ink: #2b2c2e;            /* primary text */
+  --color-ink-soft: #4c4d50;       /* secondary text */
+  --color-slate: #787a7c;          /* tertiary text / captions */
+  --color-primary: #e03e2d;        /* DM365 brand blue */
+  --color-primary-dark: #b82314;
+  --color-primary-light: #fdf2f1;
+  --color-accent: #e03e2d;         /* teal — "data" accent */
   --color-accent-dark: #0f7d76;
   --color-accent-light: #e3f4f2;
   --color-success: #2e9e63;
   --color-warning: #c97c1f;
-  --color-bg: #f6f8fa;
+  --color-bg: #f8f9fa;
   --color-surface: #ffffff;
-  --color-border: #e1e7ed;
-  --color-border-strong: #c9d3dc;
+  --color-border: #e9ecef;
+  --color-border-strong: #ced4da;
   --color-on-primary: #ffffff;
 
   /* Typography */
