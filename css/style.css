@@ -181,7 +181,7 @@ li { margin-bottom: var(--space-2); }
   background: var(--color-accent);
   flex-shrink: 0;
 }
-.section--dark .eyebrow { color: #8fd9d2; }
+.section--dark .eyebrow { color: #ffd6d1; }
 
 .section-head { max-width: 680px; margin: 0 0 var(--space-7); }
 .section-head--center { margin-inline: auto; text-align: center; }
@@ -606,7 +606,7 @@ textarea { min-height: 120px; resize: vertical; }
 
 /* ---------- 8. PAGE-SPECIFIC HELPERS ---------- */
 .page-hero { padding: var(--space-8) 0 var(--space-7); }
-.page-hero .eyebrow { color: #8fd9d2; }
+.page-hero .eyebrow { color: #ffd6d1; }
 .tag-row { display: flex; gap: var(--space-2); flex-wrap: wrap; margin-bottom: var(--space-5); }
 .tag-row .badge { background: rgba(255,255,255,0.14); color: #fff; }
 
