@@ -33,28 +33,27 @@
 /* ---------- 1. DESIGN TOKENS ---------- */
 :root {
   /* DM365 corporate palette */
-  --color-ink: #1f2528;
-  --color-ink-soft: #45545a;
-  --color-slate: #6f7d82;
+/* Brand colors — DM365 corporate palette */
+--color-ink: #111111;             /* primary text */
+--color-ink-soft: #333333;        /* secondary text */
+--color-slate: #6f6f6f;           /* tertiary text / captions */
 
-  /* Main corporate color: turquoise / cyan background from DM365 visuals */
-  --color-primary: #68c6d2;
-  --color-primary-dark: #2f9eaa;
-  --color-primary-light: #e6f7f9;
+--color-primary: #ef2b23;         /* DM365 red */
+--color-primary-dark: #c91f18;
+--color-primary-light: #f2f2f2;   /* light grey, not turquoise */
 
-  /* Main logo / CTA color: DM365 red */
-  --color-accent: #d92316;
-  --color-accent-dark: #b61b11;
-  --color-accent-light: #fde8e5;
+--color-accent: #ef2b23;          /* CTA red */
+--color-accent-dark: #c91f18;
+--color-accent-light: #f2f2f2;    /* light grey, not pink/teal */
 
-  --color-success: #2e9e63;
-  --color-warning: #c97c1f;
+--color-success: #2e9e63;
+--color-warning: #c97c1f;
 
-  --color-bg: #f6fbfc;
-  --color-surface: #ffffff;
-  --color-border: #d8e8eb;
-  --color-border-strong: #b8d6dc;
-  --color-on-primary: #ffffff;
+--color-bg: #ffffff;
+--color-surface: #f2f2f2;
+--color-border: #dddddd;
+--color-border-strong: #cfcfcf;
+--color-on-primary: #ffffff;
 
   /* Typography */
   --font-display: 'Manrope', 'Segoe UI', Arial, sans-serif;
