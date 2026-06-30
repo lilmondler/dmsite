@@ -1,0 +1,31 @@
+<!-- Placeholder data-management illustration (documents -> structured database). -->
+<svg viewBox="0 0 520 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Data management illustration">
+  <rect width="520" height="360" rx="22" fill="#f6f8fa"/>
+  <g>
+    <rect x="50" y="80" width="70" height="90" rx="8" fill="#ffffff" stroke="#c9d3dc" transform="rotate(-8 85 125)"/>
+    <rect x="70" y="70" width="70" height="90" rx="8" fill="#ffffff" stroke="#c9d3dc" transform="rotate(-2 105 115)"/>
+    <rect x="90" y="64" width="70" height="90" rx="8" fill="#e7eef6" stroke="#0f3d66"/>
+    <rect x="104" y="80" width="42" height="6" rx="3" fill="#0f3d66"/>
+    <rect x="104" y="94" width="42" height="6" rx="3" fill="#9fb6cc"/>
+    <rect x="104" y="108" width="30" height="6" rx="3" fill="#9fb6cc"/>
+  </g>
+  <g stroke="#9fb6cc" stroke-width="1.8" fill="none">
+    <path d="M180 110 260 130" marker-end="url(#arrow2)"/>
+  </g>
+  <defs>
+    <marker id="arrow2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0 0 10 5 0 10z" fill="#9fb6cc"/>
+    </marker>
+  </defs>
+  <g>
+    <rect x="270" y="80" width="200" height="200" rx="14" fill="#ffffff" stroke="#e1e7ed"/>
+    <rect x="270" y="80" width="200" height="34" rx="14" fill="#169c93"/>
+    <rect x="288" y="130" width="160" height="10" rx="5" fill="#e3f4f2"/>
+    <rect x="288" y="150" width="160" height="10" rx="5" fill="#f5f8fb"/>
+    <rect x="288" y="170" width="160" height="10" rx="5" fill="#e3f4f2"/>
+    <rect x="288" y="190" width="160" height="10" rx="5" fill="#f5f8fb"/>
+    <rect x="288" y="210" width="120" height="10" rx="5" fill="#e3f4f2"/>
+    <circle cx="440" cy="240" r="16" fill="#d8f0eb"/>
+    <path d="M433 240l5 5 10-12" stroke="#169c93" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
