@@ -1,0 +1,5 @@
+<!-- Replace with the original DM365 icon set if available. -->
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Validation icon">
+  <path d="M24 4 38 10v10c0 11-6 18-14 24C16 38 10 31 10 20V10Z" fill="#e3f4f2"/>
+  <path d="M17 23l5 5 9-11" stroke="#169c93" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

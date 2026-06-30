@@ -1,0 +1,7 @@
+<!-- Replace with the original DM365 icon set if available. -->
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Security icon">
+  <path d="M24 4 38 10v10c0 11-6 18-14 24C16 38 10 31 10 20V10Z" fill="#e7eef6"/>
+  <rect x="18" y="21" width="12" height="10" rx="2" fill="#0f3d66"/>
+  <path d="M20 21v-3a4 4 0 0 1 8 0v3" stroke="#0f3d66" stroke-width="2.4" fill="none"/>
+  <circle cx="24" cy="26" r="1.6" fill="#fff"/>
+</svg>
