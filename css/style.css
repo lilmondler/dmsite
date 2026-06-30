@@ -33,10 +33,10 @@
 /* ---------- 1. DESIGN TOKENS ---------- */
 :root {
   /* Brand colors — see note above before finalising */
-  --color-ink: #0e2236;            /* primary text */
-  --color-ink-soft: #3c5066;       /* secondary text */
+  --color-ink: #4c4d50;            /* primary text */
+  --color-ink-soft: #787a7c;       /* secondary text */
   --color-slate: #6b7a8c;          /* tertiary text / captions */
-  --color-primary: #0f3d66;        /* DM365 brand blue */
+  --color-primary: #dc3545;        /* DM365 brand blue */
   --color-primary-dark: #0a2c4b;
   --color-primary-light: #e7eef6;
   --color-accent: #169c93;         /* teal — "data" accent */
